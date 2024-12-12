@@ -3,7 +3,7 @@
   <h1>Hola, Bienvenid@ 👋 </h1>
 </div>
 
-![Banner de repositorio Github](banner-github-resized.png)
+![Banner de repositorio Github](banner-github.jpeg)
 
 Apasionada por la programación y el desarrollo web, siempre lista para aprender y enfrentar nuevos desafíos. 🚀
 
