@@ -3,7 +3,9 @@
   <h1>Hola, Bienvenid@ 👋 </h1>
 </div>
 
-![Banner de repositorio Github](banner-github.png)
+<p align="center">
+  <img src="banner-github.png" alt="Banner de repositorio Github">
+</p>
 
 Apasionada por la programación y el desarrollo web, siempre lista para aprender y enfrentar nuevos desafíos. 🚀
 
