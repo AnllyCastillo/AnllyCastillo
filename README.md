@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/>
-  <h1>Hola, Bienvenid@ 🫡 </h1>
+  <h1>Hola, Bienvenid@ 👋 </h1>
 </div>
 
-![Banner de repositorio Github](banner-github.png)
+![Banner de repositorio Github](banner-github-resized.png)
 
 Apasionada por la programación y el desarrollo web, siempre lista para aprender y enfrentar nuevos desafíos. 🚀
 
