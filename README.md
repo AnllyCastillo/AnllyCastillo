@@ -1,4 +1,7 @@
-# <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/>Hola, Bienvenid@. 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="100"/>
+  <h1>Hola, Bienvenid@ 🫡 </h1>
+</div>
 
 ![Banner de repositorio Github](banner-github.png)
 
@@ -17,8 +20,9 @@ Apasionada por la programación y el desarrollo web, siempre lista para aprender
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Las Estadísticas del Repositorio MiTienditaOnline
+## Estadisticas
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnllyCastillo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="My GitHub Stats"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnllyCastillo=true)
+
+
